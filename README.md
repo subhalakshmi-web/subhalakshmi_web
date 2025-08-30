@@ -1,4 +1,4 @@
-# Tech with a Touch of Passion  
+# A curious mind with a strong will to learn, grow, and make a positive impact as a student
 
 <h1 align="center">
   Hi there, I'm Subalakshmi  
