@@ -37,11 +37,12 @@
 
 ---
 
-## GitHub Stats  
+## 📊 GitHub Stats  
 
-![Subalakshmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=subalakshmi-cyber&show_icons=true&theme=tokyonight&hide_border=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=subalakshmi-cyber&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subalakshmi-cyber&layout=compact&theme=tokyonight)  
+![Subalakshmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&hide_border=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YourGitHubUsername&theme=tokyonight&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight)  
+ 
 
 ---
 
