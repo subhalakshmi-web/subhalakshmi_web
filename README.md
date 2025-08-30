@@ -36,14 +36,6 @@
 - Others: AWS EC2, React, Node.js  
 
 ---
----
-
-## 📜 Certifications & Courses  
-
-- [Full Ethical Hacking & Penetration Testing Course (Udemy)](https://www.udemy.com/certificate/UC-XXXXXXX/)  
-- [100 Days of Code: The Complete Python Pro Bootcamp (JetBrains Plugin)](https://plugins.jetbrains.com/plugin/25212-100-days-of-code--the-complete-python-pro-bootcamp?noRedirect=true)  
-
----
 
 
 ## 📊 GitHub Stats  
