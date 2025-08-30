@@ -5,9 +5,13 @@
 </h1>
 
 🎓 B.Tech - Computer Science & Engineering (Internet of Things and Cybersecurity including Blockchain Technology)  
-💻 Focused on Cybersecurity, IoT, Blockchain, Java & Python  
+💻 Focused on Cybersecurity, Digital forensics, Web Development, Java & Python  
 📈 Lifelong Learner, constantly exploring and upskilling  
 🔍 Internship experience at Cybercrime Police Station, Puducherry  
+---
+## Education
+-B.Tech Computer Science and Engiineering(IOT, Cybersecurity, Blochckain) at Manakula Vinayagar Institute of Technology
+-Holding CGPA : 8.97(till 4th semester)
 
 ---
 
@@ -16,7 +20,20 @@
 - Strong foundation in **Java, Python, and security fundamentals**  
 - Exploring real-world projects in **Cybersecurity and IoT**  
 - Keen interest in **forensics, network security, and blockchain use cases**  
-- Believer in **consistent growth through curiosity and contribution**  
+- Believer in **consistent growth through curiosity and contribution**
+
+---
+##🛠 Tech Toolbox
+
+![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-e44d26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white)
+
+
+
 
 ---
 
@@ -24,16 +41,6 @@
 
 - [LinkedIn](https://www.linkedin.com/in/subalakshmi-krishnamoorthi-85519931b)  
 - [Email](mailto:subha302005@gmail.com)  
-
----
-
-## Tech Toolbox  
-
-- Programming: Java, Python, C  
-- Web: HTML, CSS, JavaScript  
-- Databases: MySQL, MongoDB  
-- Tools: Git, VS Code, Linux  
-- Others: AWS EC2, React, Node.js  
 
 ---
 
